@@ -1,6 +1,7 @@
 package CardGame;
  //@author Jacob Kieszkowski
-	// access the hand count and total value
+ // access the hand count and total value
+
 public class MyHand
 {
    public int counter = 0;
