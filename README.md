@@ -1,7 +1,10 @@
 # CardGame
 Final Project for INFO-C 211
+
 1.0.0.1 README
+
 Created: April 3, 2020 by Jacob Kieszkowski
+
 Updated: April 25, 2020 by Jacob Kieszkowski
 
 
@@ -81,5 +84,7 @@ and calls functions to display the User's and Dealer's hands.
 [ Update 1.0.0.1 ]
 
 -Cleaned up code
+
 -Made formatting more consistent
+
 -Shortened variable names for easier reading
