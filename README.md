@@ -18,6 +18,7 @@ Java JDK 14
 
 
 [ Overview ]
+
 This program was designed by Joseph Branham, Dustin Chase, and Jacob Kieszkowski for a final project for 
 INFO-C211-33192 online class for IU South Bend. It was designed in the Apache NetBeans IDE program. The 
 purpose of the project is to show skills with the Java programming language, JavaFX, GUI, and team 
@@ -25,6 +26,7 @@ collaboration. The project should simulate the game of Blackjack, of which the r
 
 
 [ Rules ]
+
 The basic rules of Blackjack are as follows:
 The goal of Blackjack is to beat the Dealer but not go over the number 21.
 User and Dealer are initially dealt two card. User only knows their hand and the top card of the Dealer.
